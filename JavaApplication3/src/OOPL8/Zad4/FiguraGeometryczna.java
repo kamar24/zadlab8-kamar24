@@ -9,7 +9,7 @@ package OOPL8.Zad4;
  *
  * @author Lukasz
  */
-public abstract class FiguraGeometruczna {
+public abstract class FiguraGeometryczna {
    
     public abstract double obliczPole();
 }
